@@ -1,6 +1,8 @@
 # homebridge-mi-airpurifier
 [![npm version](https://badge.fury.io/js/homebridge-mi-airpurifier.svg)](https://badge.fury.io/js/homebridge-mi-airpurifier)
 
+This repo is forked from [XiaoMi air purifier plugins for HomeBridge](https://github.com/nfarina/homebridge) providing basic support for Mi Air Purifier MAX/MAX+
+
 XiaoMi air purifier plugins for HomeBridge.   
 Thanks for [nfarina](https://github.com/nfarina)(the author of [homebridge](https://github.com/nfarina/homebridge)), [OpenMiHome](https://github.com/OpenMiHome/mihome-binary-protocol), [aholstenson](https://github.com/aholstenson)(the author of [miio](https://github.com/aholstenson/miio)), [licuhui](https://github.com/licuhui), [superszy](https://github.com/superszy), all other developer and testers.   
 

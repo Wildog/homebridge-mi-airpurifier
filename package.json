@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-mi-airpurifier",
+  "name": "homebridge-mi-airpurifier-max",
   "version": "0.1.3",
   "description": "XiaoMi air purifier plugins for HomeBridge(https://github.com/nfarina/homebridge).",
   "keywords": [
@@ -8,14 +8,14 @@
     "mi",
     "airpurifier"
   ],
-  "author": "YinHang",
-  "homepage": "https://github.com/YinHangCode/homebridge-mi-airpurifier",
+  "author": "Wildog",
+  "homepage": "https://github.com/Wildog/homebridge-mi-airpurifier",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YinHangCode/homebridge-mi-airpurifier"
+    "url": "https://github.com/Wildog/homebridge-mi-airpurifier"
   },
   "bugs": {
-    "url": "https://github.com/YinHangCode/homebridge-mi-airpurifier/issues"
+    "url": "https://github.com/Wildog/homebridge-mi-airpurifier/issues"
   },
   "engines": {
     "node": ">=7.0.0",
